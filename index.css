@@ -1,0 +1,22 @@
+html,body {
+    margin: 0px;
+    height: 100%;
+}
+/* body { */
+
+/* } */
+
+
+
+.container { 
+    background-color: yellow;
+    width: auto;
+    height: 97.9%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper {
+    text-align: center;
+}
